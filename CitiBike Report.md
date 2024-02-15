@@ -59,7 +59,7 @@ In September, the most popular morning start time of the week is 8am on Fridays 
 #### Station Popularity
 The most popular start and end stations are within the borough of Manhattan (which coincidentally has an almost equal male to female population ratio (2018 Census)). The least popular start stations are clustered with other less popular start stations. It may be more cost efficient to close some of these less popular start stations as they have less than 10 checked bikes per month.
 
-### Conclusion
+### Recommendations/Conclusion
 Based on the foregoing, I propose the following recommendations:
 The program should implement increased marketing/promotional strategies to combat the decline in ridership numbers in the late fall/winter season.
 Increased availability of support staff during peak hours to improve user experience.
