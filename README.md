@@ -6,7 +6,7 @@ The objective was to build a set of data reports and visualizations (dashboards)
 
 My approach was to compare activities and metrics between two months: September and December, which represent two major seasons: summer and fall/winter.
 
-The visualizations are available on Tableau Public website at  https://public.tableau.com/views/CitiBikeNYC23/BikeProgram?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+The visualizations are available on my Tableau Public web page at  https://public.tableau.com/views/CitiBikeNYC23/BikeProgram?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ### Data Description
 I downloaded and merged data sets for September and December 2023 bike trip data, from the Citi Bike website ()
