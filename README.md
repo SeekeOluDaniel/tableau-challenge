@@ -9,8 +9,8 @@ My approach was to compare activities and metrics between two months: September 
 The visualizations are available on my Tableau Public web page at  https://public.tableau.com/views/CitiBikeNYC23/BikeProgram?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ### Data Description
-I downloaded and merged data sets for September and December 2023 bike trip data, from the Citi Bike website ()
-The following fields are available in the data, and I changed the column labels to reflect the data using below names:
+I downloaded and merged data sets for September and December 2023 bike trip data, from the Citi Bike website (https://citibikenyc.com/system-data)
+The following fields are available in the data, and I changed the column labels to reflect the data using the below names:
 Ride ID
 Bike type (classic or electric)
 Start Time
